@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. BigInteger/1. BigInteger.iml" filepath="$PROJECT_DIR$/1. BigInteger/1. BigInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Movie Database/2. Movie Database.iml" filepath="$PROJECT_DIR$/2. Movie Database/2. Movie Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Stack Calculator/3. Stack Calculator.iml" filepath="$PROJECT_DIR$/3. Stack Calculator/3. Stack Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Sorting/4. Sorting.iml" filepath="$PROJECT_DIR$/4. Sorting/4. Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Matching/5. Matching.iml" filepath="$PROJECT_DIR$/5. Matching/5. Matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure_2022.iml" filepath="$PROJECT_DIR$/DataStructure_2022.iml" />
+    </modules>
+  </component>
+</project>
